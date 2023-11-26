@@ -1,8 +1,8 @@
 import streamlit as st
-import cv2
+import numpy as np
 import torch
 from pygame import mixer
-import numpy as np
+import cv2
 
 # Load YOLOv5 model
 model = torch.hub.load('ultralytics/yolov5', 'custom', path=r"C:\Users\gokul\PycharmProjects\driver_drowsiness\last.pt", force_reload=True)
