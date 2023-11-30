@@ -1,5 +1,5 @@
 streamlit
-opencv_contrib_python
+opencv_python_headless
 torch
 numpy
 pygame
