@@ -4,4 +4,4 @@ torch
 numpy
 pygame
 ultralytics
-
+opencv_python
