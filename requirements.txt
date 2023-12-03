@@ -1,7 +1,7 @@
 streamlit
-opencv_python_headless
+opencv-python-headless
 torch
 numpy
 pygame
 ultralytics
-opencv_python
+opencv-python
