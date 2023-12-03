@@ -3,3 +3,5 @@ opencv_python_headless
 torch
 numpy
 pygame
+ultralytics
+
